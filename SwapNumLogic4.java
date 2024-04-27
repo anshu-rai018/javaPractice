@@ -3,7 +3,7 @@ public class SwapNumLogic4 {
         int a = 10, b =  30;
         System.out.println("Before swappinng values are.."+a+" "+b);
 
-        a = a^b;//using xor opretor
+        a = a^b;//
         b = a^b;
         a = a^b;
 
